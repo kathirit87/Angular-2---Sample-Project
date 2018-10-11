@@ -9,7 +9,9 @@ import java.util.List;
  * a)getSplitStrings()  b) getFileName()  c) getBaseQuery()
  *
  * Once you implement the above 3 methods,run DataMungerTestTask1.java
- *
+ */
+
+ /*
  * 2)DataMungerTestTask2.java file is for testing following 3 methods
  * a)getFields() b) getConditionsPartQuery() c) getConditions()
  *
@@ -21,12 +23,11 @@ import java.util.List;
  * a)getLogicalOperators() b) getOrderByFields()
  *
  * Once you implement the above 2 methods,run DataMungerTestTask3.java
- *
- * 4)DataMungerTestTask4.java file is for testing following 2 methods
- * a)getGroupByFields()  b) getAggregateFunctions()
- *
- * Once you implement the above 2 methods,run DataMungerTestTask4.java
- *
+ */
+
+ /* 4)DataMungerTestTask4.java file is for testing following 2 methods
+ * a)getGroupByFields()  b) getAggregateFunctions() *
+ * Once you implement the above 2 methods,run DataMungerTestTask4.java *
  * Once you implement all the methods run DataMungerTest.java.
  * This test case consist of all
  * the test cases together.
